@@ -1,2 +1,2 @@
 # ids-genicam
-connect IDS cameras via genica TL Producer
+connect IDS cameras via genicam TL Producer
